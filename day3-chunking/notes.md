@@ -133,4 +133,4 @@ Example:
 
 Chunking is essential for RAG because it allows the system to retrieve only the most relevant portions of a document instead of processing the entire text.
 
----
+-------
