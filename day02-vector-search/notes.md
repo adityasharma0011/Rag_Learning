@@ -6,7 +6,7 @@ Vector search is a technique used to find the most **semantically similar** item
 
 👉 Instead of matching exact keywords, it finds results based on **meaning**.
 
----
+----
 
 ## ❓ Why do we need Vector Search?
 
