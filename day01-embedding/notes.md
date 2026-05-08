@@ -121,4 +121,4 @@ Query: "I want to learn AI"
 
 Embeddings help machines understand text by converting it into vectors, allowing comparison based on meaning rather than exact words.
 
----
+-----
