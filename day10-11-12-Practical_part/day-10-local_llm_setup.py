@@ -84,6 +84,8 @@ response = ollama.chat(
 print("\n--- System Prompt Response ---")
 print(response['message']['content'])
 
+# no-op
+
 
 # ---------------------------------------------------------
 # Step 6: Compare Another Model (Optional)
