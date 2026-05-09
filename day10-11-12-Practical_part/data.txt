@@ -1,0 +1,15 @@
+Python is a programming language.
+
+Machine Learning allows computers to learn from data.
+
+RAG stands for Retrieval Augmented Generation.
+
+Embeddings convert text into vectors.
+
+Vector search helps find semantically similar text.
+
+hi my name is aditya . i am from deoband. aditya is a btech 3rd year cse student , aditya is persuing his b.tech from uttaranchal university which is located in dehradun.
+aditya's hobbies are playing cricket and chess. 
+aditya is a quick learner and have time management skill.
+aditya is working on rag  and understanding about rag strcture and pipeline.
+aditya has build naive rag system.
