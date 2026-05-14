@@ -168,3 +168,74 @@ The purpose of this repository is to:
 - move towards advanced Generative AI engineering
 
 ---
+
+# 🔹 Phase 5: Advanced Retrieval Concepts
+
+---
+
+### ✅ Day 14 — Multiple Documents in RAG
+
+Learned:
+
+* Multi-document retrieval
+* Metadata handling
+* Source tracking
+* Top-k retrieval importance
+* Context construction from multiple documents
+* Noise and ambiguity challenges
+
+---
+
+### ✅ Day 15 — Evaluation Basics
+
+Learned:
+
+* Retrieval evaluation
+* Generation evaluation
+* Precision
+* Recall
+* Faithfulness
+* Groundedness
+* Hallucination detection
+* LLM-as-a-Judge
+
+---
+
+### ✅ Day 16 — Re-ranking
+
+Learned:
+
+* Re-ranking pipeline
+* Cross-Encoders
+* Vector search limitations
+* Retrieval accuracy improvement
+* Precision improvement
+* Modern RAG retrieval pipelines
+
+---
+
+### 🧠 Key Concepts Learned
+Embeddings
+Semantic Search
+Chunking
+Vector Retrieval
+Local LLMs
+Naive RAG
+LlamaIndex
+Metadata
+Retrieval Evaluation
+Faithfulness
+Groundedness
+Re-ranking
+Cross-Encoders
+
+
+### ⚙️ Tools & Technologies
+Python
+scikit-learn
+Sentence Transformers
+Ollama
+TinyLlama
+LlamaIndex
+Vector Search
+Cosine Similarity
